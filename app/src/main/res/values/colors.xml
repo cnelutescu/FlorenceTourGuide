@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#303F9F</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#3F51B5</color>
+
+    <!-- Background color for app -->
+    <color name="background_app">#3949AB</color>
+
+    <!-- Background color for the free category -->
+    <color name="background_free">#5C6BC0</color>
+    <!-- Background color for the museums category -->
+    <color name="background_museums">#9FA8DA</color>
+    <!-- Background color for the religious category -->
+    <color name="background_religious">#7986CB</color>
+    <!-- Background color for the parks category -->
+    <color name="background_parks">#C5CAE9</color>
+
+</resources>
